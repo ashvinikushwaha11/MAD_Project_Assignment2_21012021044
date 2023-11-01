@@ -15,5 +15,3 @@ Output:
 Simple Calculator App:
 
 ![1](https://github.com/ashvinikushwaha11/MAD_Project_Assignment2_21012021044/assets/97504765/cf9fe32b-db79-4674-832e-2157d654f3ab)
-![2](https://github.com/ashvinikushwaha11/MAD_Project_Assignment2_21012021044/assets/97504765/1140afc0-f82a-4ec5-916f-65393a89a50f)
-![3](https://github.com/ashvinikushwaha11/MAD_Project_Assignment2_21012021044/assets/97504765/f2657129-7621-426f-8d32-79478116d22b)
